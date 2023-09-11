@@ -66,7 +66,7 @@ public class Pessoa {
 
         // Imprimir o resultado
         somaPesosPorIdade.forEach((idade, somaPeso) -> {
-            System.out.println("Idade: " + idade + ", Soma dos Pesos: " + somaPeso);
+            System.out.println("Idade: " + idade + ", Soma d os Pesos: " + somaPeso);
         });
 		
 		
